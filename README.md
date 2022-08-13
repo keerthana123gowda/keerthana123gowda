@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Keerthana M.G from India,
+I know HTML, CSS, JAVASCRIPT.
+I Build projects on Web design, Web development.
+
+
 <!--
 **keerthana123gowda/keerthana123gowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
