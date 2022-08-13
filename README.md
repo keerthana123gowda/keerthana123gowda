@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Keerthana M.G from India,
-I know HTML, CSS, JAVASCRIPT.
+I am Keerthana M.G from India,\n
+I know HTML, CSS, JAVASCRIPT.\n
 I Build projects on Web design, Web development.
 
 
