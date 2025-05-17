@@ -2,9 +2,9 @@
 
 I am Keerthana M.G from India,
 
-I know HTML, CSS, JAVASCRIPT.
+I know HTML, CSS, JAVASCRIPT, Java, SpringBoot, Mysql
 
-I Build projects on Web design, Web development.
+I Build projects on Web design, Web development, FullstackDevelopment Projects
 
 
 <!--
