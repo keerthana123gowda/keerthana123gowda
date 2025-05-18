@@ -1,10 +1,4 @@
-### Hi there 👋
-
-I am Keerthana M.G from India,
-
-I know HTML, CSS, JAVASCRIPT, Java, SpringBoot, Mysql
-
-I Build projects on Web design, Web development, FullstackDevelopment Projects
+👋 Hey, I'm Keerthana! Turning Ideas into Interactive Web Apps | Java | React | Spring Boot | MySQL
 
 
 <!--
